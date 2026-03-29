@@ -1,81 +1,225 @@
-# 💻 Tech Stack:
+<div align="center">
 
-## 🛠️ Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 🚀 Anas Fanani
+### Full Stack Developer & Creative Technologist
+#### Building high-performance digital experiences with React, AI, and Node.js
 
-## 🔧 Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anas--fanani.com-FF1744?style=for-the-badge&logoColor=white)](https://www.anas-fanani.com)
+[![Email](https://img.shields.io/badge/Email-anas.fanani.pro@gmail.com-FF1744?style=for-the-badge&logoColor=white)](mailto:anas.fanani.pro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Fanani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-fanani)
 
-## 🗃️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 🌐 API & Backend Development
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-## 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-## 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-## 🧑‍💻 CI/CD Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAE47?style=for-the-badge&logo=travis&logoColor=white)
-
-## 🛠️ Skills
-- **Frontend Development**: HTML, CSS, JavaScript, React, Next.js, Redux, Tailwind CSS, TypeScript
-- **Backend Development**: Node.js, Express.js, PHP, Python, Java, Spring Boot
-- **Databases**: MySQL, MongoDB, Microsoft SQL Server
-- **Design Tools**: Figma, Adobe XD, Photoshop, Canva
-- **DevOps & Tools**: Git, Docker, Jira, Postman
-- **Messaging & Communication**: RabbitMQ, Message Queues (ActiveMQ, ZeroMQ, etc.)
-- **API Development & Documentation**: Swagger, OpenAPI
-- **Authentication**: OAuth & JWT Authentication
-- **Testing**: Unit Testing (JUnit, Jest, Mocha, etc.)
-- **Microservices Architecture**: Architecture Design, Spring Boot Microservices
-- **Real-time Communication**: WebSockets
-- **Other**: Kafka, JPA/Hibernate, Mobile App Development (React Native, Flutter)
-
-## 📊 GitHub Stats:
-
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasEchoFanani&show_icons=true&theme=radical)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasEchoFanani&layout=compact&theme=radical)
+</div>
 
 ---
 
-## 👋 About Me
-Hi there! I'm **Anas Echo Fanani**, a passionate developer with expertise in web development, programming, and design. I love building scalable and user-friendly applications using modern technologies. My goal is to continuously learn and contribute to the tech community.
+## 🎯 About Me
 
-## 📫 Contact Me
-- **Email**: [anas.fanani.pro@gmail.com](mailto:anas.fanani.pro@gmail.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/anas-fanani)
-- **Portfolio**: [Portfolio](https://anas-fanani-porfolio.vercel.app)
+I'm a **Full Stack Developer & Creative Technologist** obsessed with building immersive, high-performance digital products. From **AI-powered automation systems** to **interactive web experiences**, I bridge the gap between design and engineering.
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=radical)](https://github.com/AnasEchoFanani/github-readme-stats)
+- 🔴 **Available for new projects**
+- 🌍 Based in **Casablanca, Morocco**
+- 💡 Passionate about **cutting-edge tech** and **creative solutions**
+- 🎨 Combining **technical precision** with **creative vision**
+
+> *"Bridging the gap between creative vision and engineering precision — one project at a time."*
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasEchoFanani&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=FF1744&title_color=FF1744" alt="Anas's GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasEchoFanani&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF1744" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnasEchoFanani&theme=dark&hide_border=true&background=0D1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
+```
+React  •  Next.js  •  TypeScript  •  JavaScript  •  HTML5  •  CSS3
+Tailwind CSS  •  Redux  •  Framer Motion  •  Three.js  •  WebGL
+jQuery  •  React Native  •  Flutter
+```
+
+### 🔧 Backend & APIs
+```
+Node.js  •  Express.js  •  Python  •  Java  •  Spring Boot  •  PHP
+FastAPI  •  Laravel  •  GraphQL  •  REST APIs  •  JWT  •  OAuth
+```
+
+### 🗄️ Databases & Data
+```
+PostgreSQL  •  MongoDB  •  MySQL  •  Microsoft SQL Server
+Redis  •  Firebase  •  Elasticsearch
+```
+
+### 🤖 AI & Machine Learning
+```
+GPT-4  •  LangChain  •  TensorFlow  •  LLM Integration
+Prompt Engineering  •  Vector Databases  •  RAG Systems
+```
+
+### ☁️ DevOps & Infrastructure
+```
+Docker  •  Kubernetes  •  AWS  •  GitHub Actions  •  GitLab CI
+NGINX  •  RabbitMQ  •  Microservices  •  CI/CD Pipelines
+```
+
+### 🎨 Design Tools
+```
+Figma  •  Adobe XD  •  Photoshop  •  Canva  •  Framer
+```
+
+---
+
+## 🔥 Core Expertise by Category
+
+<table>
+<tr>
+<td width="50%">
+
+### **Frontend Engineering**
+- ⚡ High-performance React applications
+- 🎨 Interactive UI with Framer Motion
+- 📱 Responsive & accessible designs
+- 🚀 Next.js SSR/SSG optimization
+- 🎯 State management with Redux
+
+</td>
+<td width="50%">
+
+### **Backend & Scalability**
+- 🏗️ RESTful & GraphQL APIs
+- 📡 Microservices architecture
+- 🔐 Authentication & authorization
+- 🚄 High-performance data processing
+- 📊 Database optimization & design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### **AI Integration**
+- 🤖 LLM implementation & fine-tuning
+- 💬 Chatbot & NLP solutions
+- 🔗 RAG (Retrieval-Augmented Generation)
+- 📈 AI-powered automation
+- 🧠 Machine learning pipelines
+
+</td>
+<td width="50%">
+
+### **DevOps & Cloud**
+- 🐳 Docker containerization
+- ☸️ Kubernetes orchestration
+- 🌐 AWS infrastructure
+- ✅ CI/CD automation
+- 📦 Deployment optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 What I Do
+
+### 01 — **FRONTEND ENGINEERING**
+Building responsive, interactive, and performant web interfaces with modern frameworks and best practices.
+
+**Technologies:** React • Next.js • TypeScript • Tailwind CSS • Framer Motion
+
+### 02 — **BACKEND & APIs**
+Designing scalable, secure backend systems and APIs that power sophisticated applications.
+
+**Technologies:** Node.js • Express.js • Python • PostgreSQL • GraphQL
+
+### 03 — **AI INTEGRATION**
+Implementing cutting-edge AI solutions, from LLM integration to autonomous systems.
+
+**Technologies:** LangChain • GPT-4 • TensorFlow • Vector Databases
+
+### 04 — **DEVOPS & CLOUD**
+Orchestrating infrastructure, automating deployments, and ensuring system reliability.
+
+**Technologies:** Docker • Kubernetes • AWS • CI/CD • Microservices
+
+---
+
+## 🏆 Key Statistics
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **Years of Experience** | 5+ |
+| **Projects Completed** | 30+ |
+| **Happy Clients** | 12+ |
+| **Open Source Contributions** | 50+ |
+| **Tech Stack Proficiency** | 25+ Technologies |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### **NeuralFlow** — AI-Powered Workflow Automation
+Intelligent automation platform with real-time data processing using LangChain and GPT-4.
+
+**Stack:** React • Python • LangChain • PostgreSQL • AWS  
+**Status:** 2025 | Lead Engineer  
+
+### **CloudSync Pro** — Enterprise Sync Solution
+Real-time data synchronization for distributed teams with encryption and conflict resolution.
+
+**Stack:** Next.js • Node.js • MongoDB • WebSockets • Docker  
+**Status:** 2025  
+
+### **PixelForge** — Design-to-Code Platform
+AI-assisted design-to-code generation tool for streamlining web development workflows.
+
+**Stack:** React • TypeScript • GPT-4 API • Figma API  
+**Status:** 2024  
+
+---
+
+## 🎓 Always Learning
+
+<div align="center">
+
+**Currently exploring:** Advanced AI architectures • Quantum computing • Web3 technologies
+
+**Certifications:** Full Stack Development • Cloud Architecture • AI/ML Fundamentals
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always interested in collaborating on **innovative projects** and exploring **cutting-edge technologies**.
+
+### [📍 Visit My Portfolio](https://www.anas-fanani.com) — [💌 Send Me an Email](mailto:anas.fanani.pro@gmail.com) — [💼 Connect on LinkedIn](https://www.linkedin.com/in/anas-fanani)
+
+---
+
+### 🌟 If you find my work interesting, please consider starring my projects!
+
+**Made with ❤️ by Anas Fanani**
+
+</div>
